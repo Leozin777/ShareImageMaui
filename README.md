@@ -93,3 +93,11 @@ protected override void OnNavigatedFrom(NavigatedFromEventArgs args)
 ## Demo
 
 https://github.com/Leozin777/ShareImageMaui/assets/73667534/5c3859de-68e7-47e2-9678-039b91b4f5cd
+
+
+## Credits
+
+I found out how to do some data manipulations and how to use OnNewIntent in a comment by u/reloded_diper on reddit.
+
+- [Leo](https://github.com/leozin777)
+- [reloded_diper](https://www.reddit.com/user/reloded_diper/)
